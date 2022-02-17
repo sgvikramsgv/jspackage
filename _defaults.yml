@@ -1,0 +1,26 @@
+#Page properties
+#=================================
+title: "JavaScript Sharing Services Package"
+
+#=================================
+#=================================
+
+
+#API Ref variables
+#=================================
+C_Base: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Base.html'>Base</a>" 
+C_Config: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Config.html'>Config</a>" 
+C_Services: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Services.html'>Services</a>" 
+C_ServicesCobrowse: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Cobrowse.html'>Cobrowse</a>" 
+C_ServicesCobrowseAgent: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Cobrowse.Agent.html'>Agent</a>" 
+C_ServicesCobrowseCustomer: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Cobrowse.Customer.html'>Customer</a>" 
+C_ServicesCobrowseCommon: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Cobrowse.Common.html'>Common</a>"
+C_ServicesCobrowseCommonAnnotationShapeInfo: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Services.Cobrowse.Common.AnnotationShapeInfo.html'>AnnotationShapeInfo</a>"
+C_BaseCoBrowseError: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Base.CoBrowseError.html'>CoBrowseError</a>" 
+C_BaseCobrowsePromise: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Base.CobrowsePromise.html'>CobrowsePromise</a>" 
+C_BaseCobrowseSessionInfo: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Base.CobrowseSessionInfo.html'>CobrowseSessionInfo</a>" 
+C_ConfigCoBrowseConfiguration: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Config.CoBrowseConfiguration.html'>CoBrowseConfiguration</a>" 
+C_ConfigServerInfo: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Config.ServerInfo.html'>ServerInfo</a>" 
+C_ServicesCobrowseAgentAgentCobrowse: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Services.Cobrowse.Agent.AgentCobrowse.html'>AgentCobrowse</a>" 
+C_ServicesCobrowseCustomerCustomerCobrowse: "<a class='apiref' href='../api_refs/AvayaCoBrowseClientServices.Services.Cobrowse.Customer.CustomerCobrowse.html'>CustomerCobrowse</a>" 
+C_windowAvayaCoBrowseClientServices: "<a class='apiref' href='../api_refs/window.AvayaCoBrowseClientServices.html'>AvayaCoBrowseClientServices</a>" 
